@@ -1,0 +1,7 @@
+## Interface: 50001
+## Dependencies: HearKitty
+## Version: Volume 2 for Hear Kitty 1.4
+## Title: Hear Kitty: official sounds
+## Notes: Adds several additional sound packs to Hear Kitty.
+
+SoundPack.lua
